@@ -1,6 +1,8 @@
 # rice2topography  
 **Procedural worldbuilding from grains of rice**
 
+![Example terrain render](png/plots.png)
+
 ---
 
 ### Overview  
